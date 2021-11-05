@@ -1,4 +1,11 @@
 # isgc-proxy
+
+
+このサイトはhttps://github.com/doubleFork/php-proxy-heroku　
+から作りました
+
+
+
 # Deploy on Heroku
 herokuにデプロイして使ってください。
 
