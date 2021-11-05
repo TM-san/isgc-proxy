@@ -26,7 +26,7 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
    document.write('<link rel="stylesheet" href="style.css" type="text/css" charset="UTF-8" />');
 }
 })();
-</script><link rel="stylesheet" href="style.css" type="text/css" charset="UTF-8">
+</script><link rel="stylesheet" href="style_sp.css" type="text/css" charset="UTF-8">
 
 
 </head>
