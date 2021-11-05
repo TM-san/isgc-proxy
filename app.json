@@ -1,6 +1,7 @@
 {
-  "name": "ISGC proxy",
-  "description": "This website was resisted.",
+  "name": "isgc-proxy",
+  "description": "isgc application",
   "repository": "https://github.com/herokuhabataku/isgc-proxy/",
-  "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
+  "logo": "https://github.com/herokuhabataku/isgc-proxy/blob/main/isgclogo.jpg",
+  "keywords": ["isgc"]
 }
