@@ -76,8 +76,41 @@ body{
 	margin:0 0 10px 0;
 	font-weight:bold;
 }
-#url{
-	word-break:break-all;	
+#frm{
+　　　　　word-break:break-all;	
+}
+#frm input[type="text"] {
+	font-size:1.0em;
+        border: 0px solid #ffffff;
+        outline: 0;
+	-webkit-appearance: none;
+	font-family:"Hiragino Mincho ProN"
+}
+#frm input[type="text"]:focus{
+	outline: 0;
+	-webkit-appearance: none;
+        border-color: #ffffff;
+	font-family:"Hiragino Mincho ProN"
+	font-size:1.0em;
+}
+#frm input[type="submit"]{
+	font-size:1.0em;
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+	border: none; 
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+        text-align: center;
+        vertical-align: middle;
+        text-decoration: none;
+	color: #ffffff;
+        background-color: #ffffff;
+	background: transparent;
 }
 #categoryName_jp{
 	margin:0 0 5px 0;
