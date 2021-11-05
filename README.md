@@ -14,12 +14,10 @@ herokuにデプロイして使ってください。
 
 
 
-
-このサイトはhttps://github.com/doubleFork/php-proxy-heroku　
-から作りました
-
-
-著作権フリーだそうなので
 isgcblockのデザインを採用したプロキシとなっています、
+
+# 発展的
+templates/main.phpの56行目のvalue="http://studyhiroshima.herokuapp.com" の部分の　http://studyhiroshima.herokuapp.com　を自分の作りたいherokuあぷりの名前に変えてgithub接続が推奨です。
+
 
 
