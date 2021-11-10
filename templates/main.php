@@ -54,7 +54,7 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
 　　　　　<?php } ?>
 	
 	<form action="index.php" method="get" style="margin-bottom:0;">
-		<input name="url" type="text" style="width:400px;" autocomplete="off" value="www.qiita.com">
+		<input name="url" type="text" style="width:400px;" autocomplete="off" value="https://www.qiita.com/">
 		<input type="submit" value="Go"/>
 	</form>
 	<script type="text/javascript">
