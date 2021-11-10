@@ -53,7 +53,7 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
 	<p><?php echo strip_tags($error_msg); ?></p>
 　　　　　<?php } ?>
 	<form action="index.php" method="post" style="margin-bottom:0;">
-		<input name="url" type="text" style="width:400px;" autocomplete="off" value="http://youtube.com"/>
+		<input name="url" type="text" style="width:400px;" autocomplete="off" value="https://qiita.com"/>
 		<input type="submit" value="Go"/>
 	</form>
 	<script type="text/javascript">
@@ -66,7 +66,7 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
 <div class="box01 boxbg_02">
 <div class="leftside">
 <div class="boxttl">規制理由(カテゴリ)</div>
-    <div id="categoryName_jp">ITサービス &gt; ドメインパーキング</div>
+    <div id="categoryName_jp">コミュニケーション &gt; SNS・ミニブログ</div>
     <div id="categoryName_en">Information Technology Service &gt; Parked Domains</div>
 </div>
 </div>
