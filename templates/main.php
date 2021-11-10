@@ -67,7 +67,7 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
 <div class="leftside">
 <div class="boxttl">規制理由(カテゴリ)</div>
     <div id="categoryName_jp">コミュニケーション &gt; SNS・ミニブログ</div>
-    <div id="categoryName_en">Information Technology Service &gt; Parked Domains</div>
+    <div id="categoryName_en">Internet Communication &gt; SNS And Microblogging</div>
 </div>
 </div>
 
