@@ -52,7 +52,6 @@ if (_UA.indexOf('iPhone') > 0 || _UA.indexOf('iPod') > 0 || _UA.indexOf('Android
 <?php if(isset($error_msg)){ ?>
 	<p><?php echo strip_tags($error_msg); ?></p>
 　　　　　<?php } ?>
-	
 	<form action="index.php" method="get" style="margin-bottom:0;">
 		<input name="url" type="text" style="width:400px;" autocomplete="off" value="https://qiita.com/">
 		<input type="submit" value="Go"/>
