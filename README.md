@@ -16,8 +16,9 @@ herokuにデプロイして使ってください。
 
 isgcblockのデザインを採用したプロキシとなっています、
 
-# 発展的
-templates/main.phpの56行目のvalue="http://youtube.com" の部分の　http://youtube.com　を自分の作りたいherokuあぷりの名前に変えてgithub接続が推奨です。
+# リンクについて
+templates/main.phpの56行目のvalue="http://youtube.com" の部分の　http://qiita.com　を好みのリンクに変えてください。
+url指定の場合は、?name=リンクで指定できます。
 
 
 
